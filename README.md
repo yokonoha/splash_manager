@@ -4,7 +4,12 @@
 ## What is this?  
 Webページにようこそ画面(スプラッシュ画面)を簡単に実装できるスクリプト。 以下の設定がちゃんとできていれば動作すると思います。  
 このスクリプトはこのリポジトリから入手する場合、MITライセンスです。  
-
+## Important!  
+このスクリプトはCaffeineファミリーのCSS(CaffeineCSS または FSLinear)使用時でしか動作しません。(なので[J]ランク、ジャンクです。)  
+反対に、CaffeineファミリーのCSS使用時ならほぼ全ての環境において正常に動作すると思われます(未検証)。  
+例: https://yokonoha.github.io (製作者のサイト)  
+    https://caffeineapps.pages.dev (CaffeineAppsの統合サイト)  
+    
 1.実装 HTML  
 ```implement.html
 <div id="splash" >
@@ -18,7 +23,7 @@ Webページにようこそ画面(スプラッシュ画面)を簡単に実装で
          </div>  
          <div class="marks-container">
          <div class="marks-r-b2">
-             <p>Rev.1.4(Release)-Caffeine_CSS Rev.4</p>  
+             <p>Rev.1.0(Release)-Caffeine_CSS Rev.4</p>  
          </div>  
          </div>
 </div> </div>
