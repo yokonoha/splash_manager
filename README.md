@@ -23,7 +23,7 @@ Webページにようこそ画面(スプラッシュ画面)を簡単に実装で
          </div>  
          <div class="marks-container">
          <div class="marks-r-b2">
-             <p>Rev.1.0(Release)-Caffeine_CSS Rev.4</p>  
+             <p>製品バージョン1.0</p>  
          </div>  
          </div>
 </div> </div>
